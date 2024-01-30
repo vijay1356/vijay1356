@@ -1,5 +1,15 @@
 <h1 align="center">Namaste 🙏, I'm P L VIJAYA VITTHAL</h1>
-<h3 align="center">I am a passionate tech enthusiast and aspiring Electronics and Communication Engineer currently pursuing my degree at the prestigious Cit Bengaluru. With a strong foundation in programming languages like C, C++, HTML, CSS, JavaScript, Bootstrap, and Java, I am constantly seeking new challenges and opportunities to expand my knowledge and skills in the ever-evolving world of technology.</h3>
+<h3 align="center">
+HTML 🌐 | CSS 🎨 | BOOTSTRAP 🚀 | JS 💻 | REACT (LEARNING..) 📚 : <WEBDEV.> 💼 : <DECENT WEBSITE & PROJECTS> 🌟
+JAVA (INTERMEDITE) ☕️ | C, C++ (DSA LEARNING...) 📚 | PYTHON (INTERMEDITE) 🐍 : <SD & BACKEND> 💻
+DRONE 🛸 : <BUILDING> 🏗 : <PILOTING (LEARNING...)> 🚁
+ROBOTICS 🤖 : <PROGRAMMING & CIRCUTES> ⚙️ : <ARDUINO (EXPERT)> 🔧 : <RASPBERRY PI (LEARNING...)> 🍓
+PROGRAMMING TEAM: <AD_ASTRA> 🚀 : <COLLEGE DRONE & ROBOTICS CLUB> 🎓
+3D PRINTING 🖨 : <DESIGN> ✏️ : <PRINTING> 🛠
+PPT , EXCEL (G.SHEET) 📊 : <UNDERTAKEN COURSE> 📚 : <ON STAGE PRESENTATION> ✔️
+
+email: vijayavittahal1356@gmail.com 📧
+phone: 9108075398 📞</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1356&label=Profile%20views&color=0e75b6&style=flat" alt="vijay1356" /> </p>
 
