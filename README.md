@@ -1,15 +1,14 @@
 <h1 align="center">Namaste 🙏, I'm P L VIJAYA VITTHAL</h1>
-<h3 align="center">
-HTML 🌐 | CSS 🎨 | BOOTSTRAP 🚀 | JS 💻 | REACT (LEARNING..) 📚 : <WEBDEV.> 💼 : <DECENT WEBSITE & PROJECTS> 🌟
-JAVA (INTERMEDITE) ☕️ | C, C++ (DSA LEARNING...) 📚 | PYTHON (INTERMEDITE) 🐍 : <SD & BACKEND> 💻
-DRONE 🛸 : <BUILDING> 🏗 : <PILOTING (LEARNING...)> 🚁
-ROBOTICS 🤖 : <PROGRAMMING & CIRCUTES> ⚙️ : <ARDUINO (EXPERT)> 🔧 : <RASPBERRY PI (LEARNING...)> 🍓
-PROGRAMMING TEAM: <AD_ASTRA> 🚀 : <COLLEGE DRONE & ROBOTICS CLUB> 🎓
-3D PRINTING 🖨 : <DESIGN> ✏️ : <PRINTING> 🛠
-PPT , EXCEL (G.SHEET) 📊 : <UNDERTAKEN COURSE> 📚 : <ON STAGE PRESENTATION> ✔️
-
-email: vijayavittahal1356@gmail.com 📧
-phone: 9108075398 📞</h3>
+<h3 align="center">HTML 🌐 | CSS 🎨 | BOOTSTRAP 🚀 | JS 💻 | REACT (LEARNING..) 📚 : [WEBDEV.] 💼 : [DECENT WEBSITE & PROJECTS] 🌟</h3>
+<h3 align="center">JAVA (INTERMEDITE) ☕️ | C, C++ (DSA LEARNING...) 📚 | PYTHON (INTERMEDITE) 🐍 : [SD & BACKEND] 💻</h3>
+<h3 align="center">DRONE 🛸 : [BUILDING] 🏗 : [PILOTING (LEARNING...)] 🚁</h3>
+<h3 align="center">ROBOTICS 🤖 : [PROGRAMMING & CIRCUTES] ⚙️ : [ARDUINO (EXPERT)] 🔧 : [RASPBERRY PI (LEARNING...)] 🍓</h3>
+<h3 align="center">PROGRAMMING TEAM: [AD_ASTRA] 🚀 : [COLLEGE DRONE & ROBOTICS CLUB] 🎓</h3>
+<h3 align="center">3D PRINTING 🖨 : [DESIGN] ✏️ : [PRINTING] 🛠</h3>
+<h3 align="center">PPT , EXCEL (G.SHEET) 📊 : [UNDERTAKEN COURSE] 📚 : [ON STAGE PRESENTATION] ✔️</h3>
+<hr>
+<h3 align="center">email: vijayavittahal1356@gmail.com 📧</h3>
+<h3 align="center">phone: 9108075398 📞</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1356&label=Profile%20views&color=0e75b6&style=flat" alt="vijay1356" /> </p>
 
