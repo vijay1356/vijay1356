@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏, I'm P L VIJAYA VITTHAL</h1>
-<h3 align="center">HTML 🌐 | CSS 🎨 | BOOTSTRAP 🚀 | JS 💻 | REACT (LEARNING..) 📚 : [WEBDEV.] 💼 : [DECENT WEBSITE & PROJECTS] 🌟</h3>
+<h3 align="center">HTML 🌐 | CSS 🎨 | BOOTSTRAP 🚀 | JS 💻 | REACT (LEARNING..) | SVELTE📚 : [WEBDEV.] 💼 : [DECENT WEBSITE & PROJECTS] 🌟</h3>
 <h3 align="center">JAVA (INTERMEDITE) ☕️ | C, C++ (DSA LEARNING...) 📚 | PYTHON (INTERMEDITE) 🐍 : [SD & BACKEND] 💻</h3>
 <h3 align="center">DRONE 🛸 : [BUILDING] 🏗 : [PILOTING (LEARNING...)] 🚁</h3>
 <h3 align="center">ROBOTICS 🤖 : [PROGRAMMING & CIRCUTES] ⚙️ : [ARDUINO (EXPERT)] 🔧 : [RASPBERRY PI (LEARNING...)] 🍓</h3>
