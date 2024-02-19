@@ -8,7 +8,7 @@
 <h3 align="center">PPT , EXCEL (G.SHEET) 📊 : [UNDERTAKEN COURSE] 📚 : [ON STAGE PRESENTATION] ✔️</h3>
 <hr>
 <h3 align="center">email: vijayavittahal1356@gmail.com 📧</h3>
-<h3 align="center">phone: 9108075398 📞</h3>
+<h3 align="center">whats app: 9108075398 📞</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1356&label=Profile%20views&color=0e75b6&style=flat" alt="vijay1356" /> </p>
 
