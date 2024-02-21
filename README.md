@@ -5,7 +5,7 @@
 <h3 align="center">ROBOTICS 🤖 : [PROGRAMMING & CIRCUTES] ⚙️ : [ARDUINO (EXPERT)] 🔧 : [RASPBERRY PI (LEARNING...)] 🍓</h3>
 <h3 align="center">PROGRAMMING TEAM: [AD_ASTRA] 🚀 : [COLLEGE DRONE & ROBOTICS CLUB] 🎓</h3>
 <h3 align="center">3D PRINTING , PCB DESIGNING 🖨 : [DESIGN] ✏️ : [PRINTING] 🛠</h3>
-<h3 align="center">PPT , EXCEL (G.SHEET) 📊 : [UNDERTAKEN COURSE] 📚 : [ON STAGE PRESENTATION] ✔️</h3>
+<h3 align="center">PPT , EXCEL (G.SHEET) 📊 : [UNDERTAKEN COURSES] 📚 : [ON STAGE PRESENTATION] ✔️</h3>
 <hr>
 <h3 align="center">email: vijayavittahal1356@gmail.com 📧</h3>
 <h3 align="center">whats app: 9108075398 📞</h3>
